@@ -1,0 +1,10 @@
+{
+  "Name": "DialogueDisplayFramework Chinese Localization",
+  "Author": "DelayDazzle",
+  "Version": "1.0.0",
+  "Description": "DialogueDisplayFramework 的独立汉化补丁。",
+  "UniqueID": "DelayDazzle.DialogueDisplayFrameworkChinese",
+  "EntryDll": "DialogueDisplayFrameworkChinese.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
